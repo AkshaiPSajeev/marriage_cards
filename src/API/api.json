@@ -1,0 +1,61 @@
+[
+    {
+      "id": 1,
+      "date": "10/11/2022",
+      "title": "Kerala Wedding",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "thumbnail": {
+        "large": "https://thebasilpark.com/wp-content/uploads/2020/10/Vivaham.jpg",
+        "small": "https://thebasilpark.com/wp-content/uploads/2020/10/Vivaham.jpg"
+      },
+      "client": {
+        "name": "Akshai",
+        "avatar": "https://images.unsplash.com/photo-1492562080023-ab3db95bfbce?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&h=400&q=80",
+        "role": "Groom"
+      }
+    },
+    {
+      "id": 2,
+      "date": "10/11/2022",
+      "title": "Punjabi wedding",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "thumbnail": {
+        "large": "https://www.manhattanbride.com/wp-content/uploads/2019/04/Indian-Traditions39-Ceremony-506-Christopher-Brock-Photography.jpg",
+        "small": "https://www.manhattanbride.com/wp-content/uploads/2019/04/Indian-Traditions39-Ceremony-506-Christopher-Brock-Photography.jpg"
+      },
+      "client": {
+        "name": "Sajeev",
+        "role": "Father"
+      }
+    },
+    {
+      "id": 3,
+      "date": "10/11/2022",
+      "title": "Marriage Fucntion 3",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "thumbnail": {
+        "large": "https://i0.wp.com/bridalmusings.com/wp-content/uploads/2014/11/Colourful-Indian-Wedding-Phil-Chester-Photography-Bridal-Musings-Wedding-Blog-43.jpg?resize=%2C",
+        "small": "https://i0.wp.com/bridalmusings.com/wp-content/uploads/2014/11/Colourful-Indian-Wedding-Phil-Chester-Photography-Bridal-Musings-Wedding-Blog-43.jpg?resize=%2C"
+      },
+      "client": {
+        "name": "Sachin Tendulkar",
+        "avatar": "https://images.unsplash.com/photo-1529626455594-4ff0802cfb7e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&h=400&q=80",
+        "role": "Uncle"
+      }
+    },
+    {
+      "id": 4,
+      "date": "10/11/2022",
+      "title": "The Great Indian Wedding",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "thumbnail": {
+        "large": "https://www.shaadidukaan.com/vogue/wp-content/uploads/2019/11/Haldi-Ceremony.jpg",
+        "small": "https://www.shaadidukaan.com/vogue/wp-content/uploads/2019/11/Haldi-Ceremony.jpg"
+      },
+      "client": {
+        "name": "Athira",
+        "avatar": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&h=400&q=80",
+        "role": "Bride"
+      }
+    }
+  ]
